@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SL-ADMINIST2CD2</Machine>
+    <WindowsUser>xenr_000</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ca5ff876-e3f0-4c42-85ea-2d4ed3934f10</PackageIdentityName>
+    <IntermediateOutputPath>G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\bin\Debug\Demo_WindowsUniversal81.WindowsPhone.exe">
+      <PackagePath>Demo_WindowsUniversal81.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\bin\Debug\Demo_WindowsUniversal81.WindowsPhone.xr.xml">
+      <PackagePath>Demo_WindowsUniversal81.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Demo_WindowsUniversal81\Demo_WindowsUniversal81\Demo_WindowsUniversal81.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
